@@ -1,0 +1,9 @@
+D:\my projects\Testing&Developing_C#\WebApiTests\bin\Debug\netstandard2.0\WebApiTests.deps.json
+D:\my projects\Testing&Developing_C#\WebApiTests\bin\Debug\netstandard2.0\WebApiTests.dll
+D:\my projects\Testing&Developing_C#\WebApiTests\bin\Debug\netstandard2.0\WebApiTests.pdb
+D:\my projects\Testing&Developing_C#\WebApiTests\obj\Debug\netstandard2.0\WebApiTests.csprojAssemblyReference.cache
+D:\my projects\Testing&Developing_C#\WebApiTests\obj\Debug\netstandard2.0\WebApiTests.AssemblyInfoInputs.cache
+D:\my projects\Testing&Developing_C#\WebApiTests\obj\Debug\netstandard2.0\WebApiTests.AssemblyInfo.cs
+D:\my projects\Testing&Developing_C#\WebApiTests\obj\Debug\netstandard2.0\WebApiTests.csproj.CoreCompileInputs.cache
+D:\my projects\Testing&Developing_C#\WebApiTests\obj\Debug\netstandard2.0\WebApiTests.dll
+D:\my projects\Testing&Developing_C#\WebApiTests\obj\Debug\netstandard2.0\WebApiTests.pdb

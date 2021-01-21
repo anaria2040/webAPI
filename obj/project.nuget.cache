@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "dgSpecHash": "5mhLrnbTBEKlkUmGE0V99B7ifvsQCcBcfj56kUhxLFg8p802K9VaBrUT9Pp/iF87Xh/orANzQlTFnnLxkXMUMg==",
+  "success": true,
+  "projectFilePath": "D:\\my projects\\Testing&Developing_C#\\WebApiTests\\WebApiTests.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kirill\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Kirill\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Kirill\\.nuget\\packages\\nunit\\3.12.0\\nunit.3.12.0.nupkg.sha512",
+    "C:\\Users\\Kirill\\.nuget\\packages\\nunit3testadapter\\4.0.0-beta.1\\nunit3testadapter.4.0.0-beta.1.nupkg.sha512",
+    "C:\\Users\\Kirill\\.nuget\\packages\\restsharp\\106.11.8-alpha.0.12\\restsharp.106.11.8-alpha.0.12.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'NUnit3TestAdapter 4.0.0-beta.1' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETStandard,Version=v2.0'. This package may not be fully compatible with your project.",
+      "libraryId": "NUnit3TestAdapter",
+      "targetGraphs": [
+        ".NETStandard,Version=v2.0"
+      ]
+    }
+  ]
+}
